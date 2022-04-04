@@ -2,10 +2,10 @@
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali 
-# Harshit Sharma
+# Kanged By © @DaNiSh_kHaN21
+# Rocks © @ReAl_DaRaMa_cLub21
+# Owner XD Danish
+# Rohit bhai
 # All rights reserved. Yukki
 
 import sys
@@ -120,9 +120,9 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("AsadSupport")
-                await self.three.join_chat("AsadSupport")
-                await self.three.join_chat("AsadSupport")
+                await self.three.join_chat("ReAl_DaRaMa_cLub21")
+                await self.three.join_chat("ReAl_DaRaMa_cLub21")
+                await self.three.join_chat("ReAl_DaRaMa_cLub21")
             except:
                 pass
             assistants.append(3)
@@ -151,9 +151,9 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("AsadSupport")
-                await self.four.join_chat("AsadSupport")
-                await self.four.join_chat("AsadSupport")
+                await self.four.join_chat("ReAl_DaRaMa_cLub21")
+                await self.four.join_chat("ReAl_DaRaMa_cLub21")
+                await self.four.join_chat("ReAl_DaRaMa_cLub21")
             except:
                 pass
             assistants.append(4)
@@ -182,9 +182,9 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("AsadSupport")
-                await self.five.join_chat("AsadSupport")
-                await self.five.join_chat("AsadSupport")
+                await self.five.join_chat("ReAl_DaRaMa_cLub21")
+                await self.five.join_chat("ReAl_DaRaMa_cLub21")
+                await self.five.join_chat("ReAl_DaRaMa_cLub21")
             except:
                 pass
             assistants.append(5)
