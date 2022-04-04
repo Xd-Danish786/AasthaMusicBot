@@ -1,7 +1,7 @@
 {
-    "name": "Aastha Music Bot ",
+    "name": "xD Danish music",
     "description": "Made With Source Of Yukki Gban Added, Customize Button Added Play Audio And Video Song On Telegram Groups.",
-    "logo": "https://telegra.ph/file/d8db78924684b505c3048.jpg",
+    "logo": "https://te.legra.ph/file/3bda5a9ee97fa4f8ddd80.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -71,21 +71,21 @@
         "SUPPORT_GROUP": {
             "description": "if you have group, then fill group link",
             "required": true,
-            "value": "https://t.me/Alexa_Help"
+            "value": "https://t.me/ReAl_DaRaMa_cLub21"
         },
         "SUPPORT_CHANNEL": {
             "description": "if you have channel, then fill the channel link",
             "required": true,
-            "value": "https://t.me/AsadSupport"
+            "value": "https://t.me/Haso_our_hasao00"
         },
         "START_IMG_URL": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "https://telegra.ph/file/d8db78924684b505c3048.jpg"
+            "value": "https://te.legra.ph/file/3bda5a9ee97fa4f8ddd80.jpg"
         },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/jankarikiduniya/AasthaMusicBot",
+        "value": "https://github.com/Xd-Danish786/AasthaMusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
